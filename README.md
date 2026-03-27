@@ -86,3 +86,81 @@ project-root/
 │   ├── package.json
 │   └── vite.config.js
 └── README.md
+
+## Backend Setup
+
+Go to the backend folder:
+```
+cd backend
+```
+
+Create a virtual environment:
+```
+python -m venv venv
+```
+Create a virtual environment:
+```
+python -m venv venv
+```
+Activate it on Windows:
+```
+venv\Scripts\activate
+```
+Install dependencies:
+```
+pip install -r requirements.txt
+```
+Then open .env and set your real values:
+```
+APP_NAME=TaskFlow Backend
+PORT=8000
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=yourpassword
+DB_NAME=internship_db
+
+JWT_SECRET=your_jwt_secret_here
+```
+Create the database in MySQL if it does not already exist:
+```
+CREATE DATABASE internship_db;
+```
+
+Run migrations:
+```
+alembic upgrade head
+```
+Start the backend server:
+```
+uvicorn app.main:app --reload
+```
+Start the backend server:
+```
+uvicorn app.main:app --reload
+```
+
+##Frontend Setup
+
+Open a new terminal.
+Go to the frontend folder:
+```
+cd frontend
+```
+
+Install packages:
+```
+npm install
+```
+
+Start the frontend:
+```
+npm run dev
+```
+```
+
+Frontend will run at:
+```
+http://localhost:5173
+```
