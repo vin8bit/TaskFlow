@@ -1,0 +1,57 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  letter-spacing: 0.3px;
+}
+
+.page-section-title {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.page-section-subtitle {
+  color: #6c757d;
+  margin-bottom: 0;
+}
+
+.soft-card {
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.06);
+}
+
+.soft-panel {
+  border-radius: 0.85rem;
+  background: #f8f9fa;
+}
+
+.task-card {
+  border-radius: 0.9rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.task-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.08);
+}
+
+.auth-card {
+  border-radius: 1rem;
+}
+
+.hero-badge {
+  font-size: 0.85rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 999px;
+}
+
+.section-spacing {
+  margin-top: 2rem;
+}
+
+.app-footer {
+  color: #6c757d;
+  font-size: 0.95rem;
+}
