@@ -136,10 +136,6 @@ Start the backend server:
 ```
 uvicorn app.main:app --reload
 ```
-Start the backend server:
-```
-uvicorn app.main:app --reload
-```
 
 ##Frontend Setup
 
