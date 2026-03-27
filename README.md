@@ -154,9 +154,24 @@ Start the frontend:
 ```
 npm run dev
 ```
-```
 
 Frontend will run at:
 ```
 http://localhost:5173
 ```
+
+<img width="1020" height="1017" alt="image" src="https://github.com/user-attachments/assets/4325f45f-d92e-427f-98df-0e8ac5cb0c5f" />
+<img width="845" height="1018" alt="image" src="https://github.com/user-attachments/assets/cdcd9d28-c492-4995-8907-c0f2d15366fc" />
+
+
+<img width="1585" height="933" alt="image" src="https://github.com/user-attachments/assets/f8d359dd-d098-491c-80e6-06400f2fd66c" />
+
+<img width="1587" height="910" alt="image" src="https://github.com/user-attachments/assets/f14bb147-d693-4aa8-b8ce-fc12a521f17a" />
+<img width="1497" height="862" alt="image" src="https://github.com/user-attachments/assets/27c5137d-65dd-488c-8c4e-d77e882da564" />
+<img width="860" height="978" alt="image" src="https://github.com/user-attachments/assets/3c0a1265-496b-4768-b6f2-e90a0b19ed2e" />
+<img width="861" height="688" alt="image" src="https://github.com/user-attachments/assets/44f34f5e-8ca3-42b8-9293-cdf7eb89bcc7" />
+<img width="867" height="633" alt="image" src="https://github.com/user-attachments/assets/845228f6-74e5-4618-9567-ef12e3020d45" />
+
+
+
+
