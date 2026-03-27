@@ -86,7 +86,7 @@ project-root/
 │   ├── package.json
 │   └── vite.config.js
 └── README.md
-
+```
 ## Backend Setup
 
 Go to the backend folder:
