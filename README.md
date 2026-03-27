@@ -133,7 +133,7 @@ Start the backend server:
 uvicorn app.main:app --reload
 ```
 
-##Frontend Setup
+## Frontend Setup
 
 Open a new terminal.
 Go to the frontend folder:
