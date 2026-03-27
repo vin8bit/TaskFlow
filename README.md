@@ -98,10 +98,6 @@ Create a virtual environment:
 ```
 python -m venv venv
 ```
-Create a virtual environment:
-```
-python -m venv venv
-```
 Activate it on Windows:
 ```
 venv\Scripts\activate
